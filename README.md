@@ -2,7 +2,7 @@
 
 ## 1. Descrição do Caso de Uso
 
-Caso de uso responsável por exibir as requisições que estão em rota visita, isto é, os executantes saíram para execução do serviço de manutenção.
+
 
 ## 2. Pré-condições
 
